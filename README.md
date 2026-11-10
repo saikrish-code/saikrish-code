@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E4E4E4&center=true&vCenter=true&width=720&height=45&lines=Sai+Krishna+S;Final-year+CS+(Data+Science)+%40+DSU+Bengaluru;Node.js+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+GenAI;while(alive)+%7B+build();+ship();+%7D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E4E4E4&center=true&vCenter=true&width=720&height=45&lines=Final-year+CS+%40+Bengaluru;Node.js+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+GenAI;while(alive)+%7B+build();+ship();+%7D" alt="Typing SVG" />
 
 <br>
 
@@ -22,10 +22,10 @@
 
 **Hey, I'm Sai.**
 
-Computer Science (Data Science) student at Dayananda Sagar University, building backend services, data pipelines and AI-powered tools. I like systems that are tested, observable and easy to explain.
+Computer Science Final Year student, building backend services, data pipelines and AI-powered tools. I like to build systems that impact and help in bringing about a change.
 
 - 🎓 Final-year B.Tech, graduating July 2027
-- 🎯 Looking for **Backend, Data Engineering and GenAI** internships
+- 🎯 Looking for **Full stack/Backend, Data Engineering and GenAI** internships
 - ⚙️ Building APIs, streaming pipelines and multi-agent systems
 - 🧠 Working through DSA, system design and cloud fundamentals
 
