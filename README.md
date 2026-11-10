@@ -8,9 +8,6 @@
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/saikrish-code?style=for-the-badge&labelColor=0d1117&color=1a1a2e&label=FOLLOWERS)
-![Views](https://komarev.com/ghpvc/?username=saikrish-code&style=for-the-badge&color=1a1a2e&label=VIEWS)
-
 </div>
 
 <br>
@@ -48,14 +45,6 @@ Computer Science (Data Science) student at Dayananda Sagar University, building 
 <div align="center">
 
 <table>
-<tr>
-<td align="right" width="35%">
-<a href="https://github.com/saikrish-code/Digital-Banking-Platform">
-<img src="https://img.shields.io/badge/%F0%9F%8F%A6%20DIGITAL--BANKING-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-<td align="left" width="65%">Microservices banking backend: Spring Boot, Kafka, Redis, Next.js client.</td>
-</tr>
 <tr>
 <td align="right">
 <a href="https://github.com/saikrish-code/Streamline-Analytics">
