@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Banner Sai Krishna S" />
+  <img src="./banner-sai.svg" width="100%" alt="Banner Sai Krishna S" />
 </div>
 
 <div align="center">
