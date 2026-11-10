@@ -1,52 +1,164 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=160&section=header&text=Sai%20Krishna%20S&fontSize=46&fontColor=e2e8f0&fontAlignY=38&desc=Backend%20%E2%80%A2%20Data%20%E2%80%A2%20GenAI&descAlignY=58&descSize=17&descColor=94a3b8" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&lines=Final-year+CS+(Data+Science)+%40+Bengaluru;Building+backends%2C+pipelines+and+AI+agents;Shipping+things+people+actually+use" alt="Typing animation" />
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-saikrishsja%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishsja@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna-suresh/)
-
+  <img src="./banner.svg" width="100%" alt="Banner Sai Krishna S" />
 </div>
-
-<br/>
-
-### Tech I work with
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E4E4E4&center=true&vCenter=true&width=720&height=45&lines=Sai+Krishna+S;Final-year+CS+(Data+Science)+%40+DSU+Bengaluru;Node.js+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+GenAI;while(alive)+%7B+build();+ship();+%7D" alt="Typing SVG" />
+
+<br>
+
+![Followers](https://img.shields.io/github/followers/saikrish-code?style=for-the-badge&labelColor=0d1117&color=1a1a2e&label=FOLLOWERS)
+![Views](https://komarev.com/ghpvc/?username=saikrish-code&style=for-the-badge&color=1a1a2e&label=VIEWS)
 
 </div>
 
-<br/>
+<br>
 
-### Selected projects
+<h2 align="center">⌜ Know About Me ⌟</h2>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Digital Banking Platform**](https://github.com/saikrish-code/Digital-Banking-Platform) | Microservices banking backend with a gateway, service discovery, event streaming and a Next.js client | Spring Boot · Kafka · Redis · Next.js |
-| [**Streamline Analytics**](https://github.com/saikrish-code/Streamline-Analytics) | E-commerce analytics pipeline with streaming ingestion, data-quality gates and a churn model | Kafka · dbt · Dagster · scikit-learn |
-| [**CrewDesk**](https://github.com/saikrish-code/CrewDesk) | Multi-agent research system where planner, researcher, writer and critic agents revise a report in a capped loop | LangGraph · Groq · FastAPI |
-| [**Talentrix**](https://github.com/saikrish-code/Talentrix) | AI recruitment platform with resume parsing, semantic candidate matching and interview scorecards | TypeScript · Turborepo |
-| [**RepoSage**](https://github.com/saikrish-code/Github-Repo-AI-using-RAG) | Ask questions about any GitHub repository, with hybrid retrieval and citation-backed answers | FastAPI · Qdrant · Celery |
-| [**SpendFlow**](https://github.com/saikrish-code/Spendflow) | Spend management dashboard with KPI charts, approval workflows and an AI copilot over live data | Next.js · React Native · Zod |
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<br/>
+<br>
+
+**Hey, I'm Sai.**
+
+Computer Science (Data Science) student at Dayananda Sagar University, building backend services, data pipelines and AI-powered tools. I like systems that are tested, observable and easy to explain.
+
+- 🎓 Final-year B.Tech, graduating July 2027
+- 🎯 Looking for **Backend, Data Engineering and GenAI** internships
+- ⚙️ Building APIs, streaming pipelines and multi-agent systems
+- 🧠 Working through DSA, system design and cloud fundamentals
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./ascii-anime.svg" width="100%" alt="ascii anime art" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">⌜ Top Projects ⌟ <sub><sup>(built to solve real problems)</sup></sub></h2>
 
 <div align="center">
 
-<sub>Built with curiosity, coffee and a lot of failing tests first.</sub>
+<table>
+<tr>
+<td align="right" width="35%">
+<a href="https://github.com/saikrish-code/Digital-Banking-Platform">
+<img src="https://img.shields.io/badge/%F0%9F%8F%A6%20DIGITAL--BANKING-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="left" width="65%">Microservices banking backend: Spring Boot, Kafka, Redis, Next.js client.</td>
+</tr>
+<tr>
+<td align="right">
+<a href="https://github.com/saikrish-code/Streamline-Analytics">
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20STREAMLINE--ANALYTICS-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="left">E-commerce analytics pipeline: streaming ingestion, data-quality gates, dbt, Dagster, churn model.</td>
+</tr>
+<tr>
+<td align="right">
+<a href="https://github.com/saikrish-code/CrewDesk">
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20CREWDESK-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="left">Multi-agent research system with planner, researcher, writer and critic agents on LangGraph.</td>
+</tr>
+<tr>
+<td align="right">
+<a href="https://github.com/saikrish-code/Talentrix">
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20TALENTRIX-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="left">AI recruitment platform: resume parsing, semantic matching, interview scorecards.</td>
+</tr>
+<tr>
+<td align="right">
+<a href="https://github.com/saikrish-code/Github-Repo-AI-using-RAG">
+<img src="https://img.shields.io/badge/%F0%9F%93%9C%20REPOSAGE-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="left">Ask questions about any GitHub repository: hybrid retrieval, citation-backed answers.</td>
+</tr>
+<tr>
+<td align="right">
+<a href="https://github.com/saikrish-code/Spendflow">
+<img src="https://img.shields.io/badge/%F0%9F%92%B8%20SPENDFLOW-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="left">Spend management dashboard with KPI charts, approval workflows and an AI copilot over live data.</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<h2 align="center">⌜ ⛧ Languages · Frameworks · Tools ⛧ ⌟</h2>
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=ts,js,py,java,nodejs,react,nextjs,express,fastapi,spring,postgres,redis,kafka,docker,git,github,linux,vscode&theme=dark&perline=9)
+
+<br>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br>
+
+<h2 align="center">⌜ 📊 GitHub Stats ⌟</h2>
+
+<div align="center">
+
+<img height="170em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=saikrish-code&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=8b5cf6&title_color=e4e4e4" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrish-code&theme=github-dark-blue&background=0d1117&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=e4e4e4" />
+
+<br><br>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikrish-code&bg_color=0d1117&color=e4e4e4&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Sai's%20Contribution%20Graph" />
+
+</div>
+
+<br>
+
+<h2 align="center">⌜ 🐍 Contribution Snake ⌟</h2>
+
+<div align="center">
+
+![snake gif](https://github.com/saikrish-code/saikrish-code/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br>
+
+<h2 align="center">⌜ Connect ⌟</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/sai-krishna-suresh/)
+[![Gmail](https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:saikrishsja@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikrish-code)
+
+</div>
+
+<br>
+
+<div align="center">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=footer" width="100%" />
 
 </div>
